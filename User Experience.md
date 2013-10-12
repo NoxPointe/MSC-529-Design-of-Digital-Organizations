@@ -25,3 +25,14 @@ Web Usability
 - Memorability
 - Low Error frequency and severity
 - Subjective satisfaction
+
+**Usable** interfaces and Web sites must enable users to accomplish their tasks effectively and efficiently regardless of their physical, social, or cultural work environments.
+
+**Usable** interfaces must also be perceived as usable by those who must use them or choose to use them.
+
+**Usable Interfaces**
+
+- Reflect familiar and comfortable workflows
+- Support users' learning styles
+- Encompass design concept that makes sense to users
+- Provide a level of design consistency
