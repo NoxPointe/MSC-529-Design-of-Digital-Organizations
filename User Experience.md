@@ -87,12 +87,35 @@ Web Peeves
 - Search systems that don't work, are out of context, or irrelevant
 - Nasty or Cryptic Error Messages
 
+Considerations
+--------------
+- What are the goals of the organization?
+- What is the vision of the site?
+- What content is being presented through the site?
+- What is the site image?
+- What feedback is given?
+- Is the organization interested in repeat visits?
+- Is the site interactive? What communication channels are available?
+- Are all potential audiences being addressed?
+- How does this organization care about the user, or not?
 
+Web Content
+===========
+Users' Pet Peeves
+-----------------
+- Too long
+- Not relevant
+- Lack of summaries
+- Style, tone, language inconsistencies
+- Punctuation and grammatical errors
+- Requires too much scrolling ([Information about scrolling](http://uxmyths.com/post/654047943/myth-people-dont-scroll))
+- Includes banner and/or advertising junk
 
 Suggested Reading
 =================
-Designing with the Mind in Mind
-Don't Make Me Think!
-Rocket Surgery Made Easy
-Context Strategy for the Web
-Mobile First
+- [Designing with the Mind in Mind](http://www.amazon.com/Designing-Mind-Simple-Understanding-Interface/dp/012375030X)
+- [Don't Make Me Think!](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758/ref=sr_1_1?s=books&ie=UTF8&qid=1381613044&sr=1-1&keywords=don%27t+make+me+think)
+- [Rocket Surgery Made Easy](http://www.amazon.com/Rocket-Surgery-Made-Easy--Yourself/dp/0321657292/ref=sr_1_1?s=books&ie=UTF8&qid=1381613085&sr=1-1&keywords=rocket+surgery+made+easy)
+- [Context Strategy for the Web](http://www.amazon.com/Content-Strategy-Web-Kristina-Halvorson/dp/0321808304/ref=sr_1_1?s=books&ie=UTF8&qid=1381613122&sr=1-1&keywords=content+strategy+for+the+web+2nd+edition)
+- [Mobile First](http://www.amazon.com/Mobile-First-Luke-Wroblewski/dp/1937557022/ref=sr_1_1?s=books&ie=UTF8&qid=1381613151&sr=1-1&keywords=mobile+first)
+- [Information Architecture for the World Wide Web](http://www.amazon.com/Information-Architecture-World-Wide-Web/dp/0596527349/ref=sr_1_1?s=books&ie=UTF8&qid=1381613235&sr=1-1&keywords=information+architecture+for+the+worldwide+web)
