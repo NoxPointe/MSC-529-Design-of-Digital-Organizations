@@ -71,3 +71,26 @@ Functionality
 - Be clear about the feature and content
 - Provide useful, interesting features
 - Provide functional functionality
+
+Page Layout and Content
+-----------------------
+- White Space is good
+- Contrast is Good
+- Scannability
+- Short text
+- Chunking
+- Stationary, legibility
+
+Web Peeves
+----------
+- Withholding information
+- Search systems that don't work, are out of context, or irrelevant
+- Nasty or Cryptic Error Messages
+
+Suggested Reading
+=================
+Designing with the Mind in Mind
+Don't Make Me Think!
+Rocket Surgery Made Easy
+Context Strategy for the Web
+Mobile First
