@@ -111,6 +111,25 @@ Users' Pet Peeves
 - Requires too much scrolling ([Information about scrolling](http://uxmyths.com/post/654047943/myth-people-dont-scroll))
 - Includes banner and/or advertising junk
 
+Style Guidelines
+----------------
+- Avoid Cliches
+- Avoid Passive Voice
+- Use sub-headings
+- Use bolding to emphasize text
+- Use bullets to make reading easier
+- Create link for users to access more information about content items
+- Use communication that relates to users' needs
+- Use content flow
+- Keep users interested
+
+Keep in Mind
+------------
+- Reduce content by approximately 50% when moving from print to web.
+- Readers first scan a page to determine if content is relevant.
+- Studies show that 25% of users read slower online than print text.
+- Many users develop fatigue from reading online content.
+
 Suggested Reading
 =================
 - [Designing with the Mind in Mind](http://www.amazon.com/Designing-Mind-Simple-Understanding-Interface/dp/012375030X)
