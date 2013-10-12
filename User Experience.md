@@ -13,3 +13,15 @@ User Experience Perspective
 -------------------
 - 20% of users use phones for primary browsing
 - 95% of teens use the internet
+
+Web Usability
+=============
+**Usability** is the measure of the quality of a user's experience when interacting with a product of system - whether a Web site, a software application, mobile technology, or any user-operated device.
+
+**Usability** is a combination of factors that affect the user's experience with product or system.
+
+- Ease of Learning
+- Efficiency of Use
+- Memorability
+- Low Error frequency and severity
+- Subjective satisfaction
