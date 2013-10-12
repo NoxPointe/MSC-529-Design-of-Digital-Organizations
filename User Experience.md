@@ -36,3 +36,9 @@ Web Usability
 - Support users' learning styles
 - Encompass design concept that makes sense to users
 - Provide a level of design consistency
+
+**Effectiveness:** The acuracy and completeness which specified users can achieve specified goals in particular environments.
+
+**Efficiency:** The resources expanded in relation to the accuracy and completeness of goals achieved.
+
+**Satisfaction:** The comfort and acceptability of the work system to its users and other people affected by its use.
