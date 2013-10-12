@@ -42,3 +42,32 @@ Web Usability
 **Efficiency:** The resources expanded in relation to the accuracy and completeness of goals achieved.
 
 **Satisfaction:** The comfort and acceptability of the work system to its users and other people affected by its use.
+
+**Guidelines**
+- Simplicity
+- Speed
+- Substance
+- Satisfaction
+
+Navigation
+----------
+Information Architecture (mental model)
+- Organization, classification systems
+- Differences in audience perspectives
+- Politics
+- Organization Schema: shared context of content items
+	- eg, chronological, geographical, alphabetical, topical, task, audience, hybrid
+- Organization Structures: types of relationships between content items and groups
+- Use design to guide users
+- Labeling should be concise, not clever, not self-centered
+- Consistency
+- Shortest Path
+- Build context
+
+Functionality
+-------------
+- Don't lead users on
+- Don't overwhelm users
+- Be clear about the feature and content
+- Provide useful, interesting features
+- Provide functional functionality
