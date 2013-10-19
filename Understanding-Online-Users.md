@@ -33,4 +33,7 @@ Attracts Attention
 - Show areas of personal/private anatomy (Men tended to fixate on these areas more than women -- really!)
 - Items a user may want to buy
 
+Web Usage
+=========
+Trend: Internet activity convergance across age groups.
 
